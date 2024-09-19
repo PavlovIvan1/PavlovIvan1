@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PavlovIvan1
+- 👀 I’m interested: in Macjhine Learning and Front-end development
+- 🌱 I’m currently: learning Tensorflow and OpenCV
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: The First Computer “Bug” Was a Real Bug.
