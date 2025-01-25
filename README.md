@@ -14,5 +14,4 @@ Here are some of the technologies and tools I work with:
   - ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) Tailwind CSS
   - ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) SASS
 
-
 Feel free to check out my repositories and get in touch!
